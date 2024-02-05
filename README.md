@@ -1,4 +1,4 @@
-# NetFlix-Clone
+# NetFlix-Clone-By-AyushSarfare
 Welcome to my Netflix Landing Page project! 🎉
 
 # Overview
